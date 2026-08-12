@@ -2,7 +2,7 @@
 #
 # pagasa-pp-cli fleet installer — idempotent, macOS + Linux.
 #
-#   curl -fsSL https://raw.githubusercontent.com/ngpestelos/pagasa-pp-cli/main/scripts/install.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/ph-commons/pagasa-pp-cli/main/scripts/install.sh | bash
 #
 # Prefers the GitHub release prebuilt tarball (checksum-verified). Falls back
 # to `go install` only when prebuilt cannot be resolved (no release asset,
@@ -17,7 +17,7 @@
 
 set -euo pipefail
 
-MODULE="github.com/ngpestelos/pagasa-pp-cli"
+MODULE="github.com/ph-commons/pagasa-pp-cli"
 BIN="pagasa-pp-cli"
 MCP="pagasa-pp-mcp"
 GOBIN_DIR="${GOBIN:-$HOME/.local/bin}"
@@ -37,7 +37,7 @@ file_sha256() {
   fi
 }
 
-OWNER_REPO="ngpestelos/pagasa-pp-cli"
+OWNER_REPO="ph-commons/pagasa-pp-cli"
 mkdir -p "$GOBIN_DIR"
 
 # --- 1. Prefer the prebuilt release binary (no local compile) ----------------

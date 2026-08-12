@@ -5,7 +5,7 @@ package cli
 import (
 	"testing"
 
-	"github.com/ngpestelos/pagasa-pp-cli/internal/pagasa"
+	"github.com/ph-commons/pagasa-pp-cli/internal/pagasa"
 )
 
 func TestMatchWindSignal(t *testing.T) {

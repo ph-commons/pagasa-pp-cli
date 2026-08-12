@@ -11,7 +11,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/ngpestelos/pagasa-pp-cli/internal/cliutil"
+	"github.com/ph-commons/pagasa-pp-cli/internal/cliutil"
 )
 
 func withTempHomeForLog(t *testing.T) string {

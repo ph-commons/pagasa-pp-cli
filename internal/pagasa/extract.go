@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ngpestelos/pagasa-pp-cli/internal/cliutil"
+	"github.com/ph-commons/pagasa-pp-cli/internal/cliutil"
 )
 
 // --- Synopsis (also used by the `now` command's sibling logic) ---

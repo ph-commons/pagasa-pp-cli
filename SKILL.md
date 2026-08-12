@@ -14,7 +14,7 @@ metadata:
     install:
       - kind: go
         bins: [pagasa-pp-cli]
-        module: github.com/ngpestelos/pagasa-pp-cli/cmd/pagasa-pp-cli
+        module: github.com/ph-commons/pagasa-pp-cli/cmd/pagasa-pp-cli
 ---
 
 # PAGASA — Printing Press CLI
@@ -31,8 +31,8 @@ pagasa-pp-cli --version
 Missing binary (Go ≥1.26.5; `GOTOOLCHAIN=auto` if older):
 
 ```bash
-go install github.com/ngpestelos/pagasa-pp-cli/cmd/pagasa-pp-cli@latest
-# or prebuilt: curl -fsSL https://raw.githubusercontent.com/ngpestelos/pagasa-pp-cli/main/scripts/install.sh | bash
+go install github.com/ph-commons/pagasa-pp-cli/cmd/pagasa-pp-cli@latest
+# or prebuilt: curl -fsSL https://raw.githubusercontent.com/ph-commons/pagasa-pp-cli/main/scripts/install.sh | bash
 ```
 
 Ensure `$GOPATH/bin`, `$HOME/go/bin`, or `~/.local/bin` is on `PATH`. **Do not run skill commands until `--version` works.**

@@ -26,9 +26,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ngpestelos/pagasa-pp-cli/internal/cliutil"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/config"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/platform"
+	"github.com/ph-commons/pagasa-pp-cli/internal/cliutil"
+	"github.com/ph-commons/pagasa-pp-cli/internal/config"
+	"github.com/ph-commons/pagasa-pp-cli/internal/platform"
 )
 
 const BinaryResponseHeader = "X-Printing-Press-Binary-Response"

@@ -16,8 +16,8 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"github.com/ngpestelos/pagasa-pp-cli/internal/config"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/platform"
+	"github.com/ph-commons/pagasa-pp-cli/internal/config"
+	"github.com/ph-commons/pagasa-pp-cli/internal/platform"
 )
 
 func TestAPIError_ErrorOmitsBody(t *testing.T) {

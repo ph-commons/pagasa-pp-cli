@@ -13,10 +13,10 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/ngpestelos/pagasa-pp-cli/internal/cliutil"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/learn"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/learn/entities"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/store"
+	"github.com/ph-commons/pagasa-pp-cli/internal/cliutil"
+	"github.com/ph-commons/pagasa-pp-cli/internal/learn"
+	"github.com/ph-commons/pagasa-pp-cli/internal/learn/entities"
+	"github.com/ph-commons/pagasa-pp-cli/internal/store"
 )
 
 func unmarshalAgentResults(t *testing.T, stdout string, out any) {

@@ -15,9 +15,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ngpestelos/pagasa-pp-cli/internal/learn/entities"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/learn/lookups"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/learn/patterns"
+	"github.com/ph-commons/pagasa-pp-cli/internal/learn/entities"
+	"github.com/ph-commons/pagasa-pp-cli/internal/learn/lookups"
+	"github.com/ph-commons/pagasa-pp-cli/internal/learn/patterns"
 )
 
 // Default thresholds. Keep in sync with the documented contract in

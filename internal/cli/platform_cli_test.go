@@ -15,7 +15,7 @@ import (
 	"time"
 
 	"github.com/spf13/cobra"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/platform"
+	"github.com/ph-commons/pagasa-pp-cli/internal/platform"
 )
 
 type conformanceResolver struct{ value []byte }

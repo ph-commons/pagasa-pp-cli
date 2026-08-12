@@ -9,7 +9,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/ngpestelos/pagasa-pp-cli/internal/store"
+	"github.com/ph-commons/pagasa-pp-cli/internal/store"
 )
 
 // snapshotType is the resources.resource_type key for persisted weather snapshots.

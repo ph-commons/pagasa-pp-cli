@@ -13,7 +13,7 @@ import (
 
 	mcplib "github.com/mark3labs/mcp-go/mcp"
 	"github.com/mark3labs/mcp-go/server"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/mcp/bound"
+	"github.com/ph-commons/pagasa-pp-cli/internal/mcp/bound"
 )
 
 func boundedToolResultError(message string) *mcplib.CallToolResult {

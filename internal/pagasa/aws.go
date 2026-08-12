@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ngpestelos/pagasa-pp-cli/internal/cliutil"
+	"github.com/ph-commons/pagasa-pp-cli/internal/cliutil"
 )
 
 // PHT is Philippine Standard Time (UTC+8). Used instead of time.LoadLocation

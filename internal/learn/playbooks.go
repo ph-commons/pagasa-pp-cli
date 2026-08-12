@@ -13,7 +13,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/ngpestelos/pagasa-pp-cli/internal/learn/entities"
+	"github.com/ph-commons/pagasa-pp-cli/internal/learn/entities"
 )
 
 // EntityResolver looks up a token in entity_lookups to find its

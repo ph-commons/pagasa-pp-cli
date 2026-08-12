@@ -5,7 +5,7 @@ package cli
 import (
 	"strings"
 
-	"github.com/ngpestelos/pagasa-pp-cli/internal/pagasa"
+	"github.com/ph-commons/pagasa-pp-cli/internal/pagasa"
 )
 
 // matchWindSignal finds the highest signal number whose affected_areas text

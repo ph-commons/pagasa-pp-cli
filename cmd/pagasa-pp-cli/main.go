@@ -6,7 +6,7 @@ package main
 import (
 	"os"
 
-	"github.com/ngpestelos/pagasa-pp-cli/internal/cli"
+	"github.com/ph-commons/pagasa-pp-cli/internal/cli"
 )
 
 func main() {

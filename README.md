@@ -13,7 +13,7 @@ Created by [Nestor G Pestelos Jr](https://npestelos.com).
 Requires [Go 1.26.5 or newer](https://go.dev/dl/):
 
 ```bash
-go install github.com/ngpestelos/pagasa-pp-cli/cmd/pagasa-pp-cli@latest
+go install github.com/ph-commons/pagasa-pp-cli/cmd/pagasa-pp-cli@latest
 ```
 
 The binary installs to `$(go env GOPATH)/bin` (usually `~/go/bin`); make sure that's on your `PATH`.
@@ -21,13 +21,13 @@ The binary installs to `$(go env GOPATH)/bin` (usually `~/go/bin`); make sure th
 Or use the one-shot installer (idempotent; verifies release `checksums.txt` SHA256 before extract; `go install` fallback retries the module checksum-DB fetch; installs to `~/.local/bin`):
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/ngpestelos/pagasa-pp-cli/main/scripts/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/ph-commons/pagasa-pp-cli/main/scripts/install.sh | bash
 ```
 
 An MCP server binary is also available for IDE/desktop agents:
 
 ```bash
-go install github.com/ngpestelos/pagasa-pp-cli/cmd/pagasa-pp-mcp@latest
+go install github.com/ph-commons/pagasa-pp-cli/cmd/pagasa-pp-mcp@latest
 ```
 
 Default transport is **stdio** (no listening socket). Streamable HTTP is
