@@ -7,7 +7,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/ngpestelos/pagasa-pp-cli/internal/learn/entities"
+	"github.com/ph-commons/pagasa-pp-cli/internal/learn/entities"
 )
 
 // NormalizedQuery is the entity-aware normalized representation of a

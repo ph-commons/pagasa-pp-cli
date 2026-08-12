@@ -10,8 +10,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/ngpestelos/pagasa-pp-cli/internal/cliutil"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/store"
+	"github.com/ph-commons/pagasa-pp-cli/internal/cliutil"
+	"github.com/ph-commons/pagasa-pp-cli/internal/store"
 )
 
 // rejectPathOutsideMCPAppDirs enforces issue #30 / F10: under the MCP

@@ -9,7 +9,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/ngpestelos/pagasa-pp-cli/internal/pagasa"
+	"github.com/ph-commons/pagasa-pp-cli/internal/pagasa"
 )
 
 type watchView struct {

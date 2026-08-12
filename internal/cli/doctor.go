@@ -10,9 +10,9 @@ import (
 	"strings"
 
 	"github.com/spf13/cobra"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/client"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/cliutil"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/config"
+	"github.com/ph-commons/pagasa-pp-cli/internal/client"
+	"github.com/ph-commons/pagasa-pp-cli/internal/cliutil"
+	"github.com/ph-commons/pagasa-pp-cli/internal/config"
 )
 
 // looksLikeDoctorInterstitial reports whether the response body matches a known

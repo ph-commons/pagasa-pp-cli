@@ -27,12 +27,12 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/ngpestelos/pagasa-pp-cli/internal/cliutil"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/learn"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/learn/entities"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/learn/lookups"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/learn/patterns"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/store"
+	"github.com/ph-commons/pagasa-pp-cli/internal/cliutil"
+	"github.com/ph-commons/pagasa-pp-cli/internal/learn"
+	"github.com/ph-commons/pagasa-pp-cli/internal/learn/entities"
+	"github.com/ph-commons/pagasa-pp-cli/internal/learn/lookups"
+	"github.com/ph-commons/pagasa-pp-cli/internal/learn/patterns"
+	"github.com/ph-commons/pagasa-pp-cli/internal/store"
 )
 
 // noLearnEnvVar is the environment variable that disables the learning

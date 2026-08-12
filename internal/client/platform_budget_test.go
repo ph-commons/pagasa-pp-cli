@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ngpestelos/pagasa-pp-cli/internal/platform"
+	"github.com/ph-commons/pagasa-pp-cli/internal/platform"
 )
 
 func TestPlatformBudgetLookupContract(t *testing.T) {

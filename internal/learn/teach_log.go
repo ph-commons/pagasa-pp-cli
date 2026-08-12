@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ngpestelos/pagasa-pp-cli/internal/cliutil"
+	"github.com/ph-commons/pagasa-pp-cli/internal/cliutil"
 )
 
 // teachLogStateDirName is the per-user state directory name.

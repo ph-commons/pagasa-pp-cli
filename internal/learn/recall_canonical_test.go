@@ -20,7 +20,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ngpestelos/pagasa-pp-cli/internal/learn/entities"
+	"github.com/ph-commons/pagasa-pp-cli/internal/learn/entities"
 
 	_ "modernc.org/sqlite"
 )

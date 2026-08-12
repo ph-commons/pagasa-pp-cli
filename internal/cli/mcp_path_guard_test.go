@@ -9,8 +9,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ngpestelos/pagasa-pp-cli/internal/cliutil"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/store"
+	"github.com/ph-commons/pagasa-pp-cli/internal/cliutil"
+	"github.com/ph-commons/pagasa-pp-cli/internal/store"
 )
 
 func withMCPSurface(t *testing.T) {

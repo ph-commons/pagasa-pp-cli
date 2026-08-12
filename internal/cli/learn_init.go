@@ -23,8 +23,8 @@ import (
 	"os"
 	"sync"
 
-	"github.com/ngpestelos/pagasa-pp-cli/internal/learn/entities"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/store"
+	"github.com/ph-commons/pagasa-pp-cli/internal/learn/entities"
+	"github.com/ph-commons/pagasa-pp-cli/internal/store"
 )
 
 // newLearnConfig returns the per-CLI entity extractor Config the

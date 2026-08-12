@@ -69,7 +69,7 @@ For install, auth, examples, and longer product guidance, read `README.md` and `
 
 ### This public fork (SSOT)
 
-**[`CHANGELOG.md`](CHANGELOG.md)** is the hand-maintained release ledger for `ngpestelos/pagasa-pp-cli`.
+**[`CHANGELOG.md`](CHANGELOG.md)** is the hand-maintained release ledger for `ph-commons/pagasa-pp-cli`.
 
 | When | What |
 |------|------|

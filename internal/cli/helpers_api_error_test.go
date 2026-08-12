@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ngpestelos/pagasa-pp-cli/internal/client"
+	"github.com/ph-commons/pagasa-pp-cli/internal/client"
 )
 
 func TestWriteAPIErrorEnvelope_OmitsBody(t *testing.T) {

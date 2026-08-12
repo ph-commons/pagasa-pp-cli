@@ -17,8 +17,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ngpestelos/pagasa-pp-cli/internal/client"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/store"
+	"github.com/ph-commons/pagasa-pp-cli/internal/client"
+	"github.com/ph-commons/pagasa-pp-cli/internal/store"
 )
 
 const networkFallbackReason = "api_unreachable"

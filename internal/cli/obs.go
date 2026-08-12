@@ -12,10 +12,10 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/ngpestelos/pagasa-pp-cli/internal/client"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/config"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/pagasa"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/store"
+	"github.com/ph-commons/pagasa-pp-cli/internal/client"
+	"github.com/ph-commons/pagasa-pp-cli/internal/config"
+	"github.com/ph-commons/pagasa-pp-cli/internal/pagasa"
+	"github.com/ph-commons/pagasa-pp-cli/internal/store"
 )
 
 // bagongAWSBaseURL is the host that serves the Automated Weather Stations table.

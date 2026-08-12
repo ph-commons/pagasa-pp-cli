@@ -12,10 +12,10 @@ import (
 
 	mcplib "github.com/mark3labs/mcp-go/mcp"
 	"github.com/mark3labs/mcp-go/server"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/cli"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/client"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/config"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/platform"
+	"github.com/ph-commons/pagasa-pp-cli/internal/cli"
+	"github.com/ph-commons/pagasa-pp-cli/internal/client"
+	"github.com/ph-commons/pagasa-pp-cli/internal/config"
+	"github.com/ph-commons/pagasa-pp-cli/internal/platform"
 )
 
 func TestMCPEveryRegisteredToolHasFreshTenantGate(t *testing.T) {

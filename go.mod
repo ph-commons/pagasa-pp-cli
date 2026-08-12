@@ -1,4 +1,4 @@
-module github.com/ngpestelos/pagasa-pp-cli
+module github.com/ph-commons/pagasa-pp-cli
 
 go 1.26.5
 

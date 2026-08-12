@@ -17,8 +17,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/ngpestelos/pagasa-pp-cli/internal/learn"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/store"
+	"github.com/ph-commons/pagasa-pp-cli/internal/learn"
+	"github.com/ph-commons/pagasa-pp-cli/internal/store"
 )
 
 // deriveDBPath allocates a fresh candidate-store path per test.

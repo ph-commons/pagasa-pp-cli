@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ngpestelos/pagasa-pp-cli/internal/pagasa"
-	"github.com/ngpestelos/pagasa-pp-cli/internal/store"
+	"github.com/ph-commons/pagasa-pp-cli/internal/pagasa"
+	"github.com/ph-commons/pagasa-pp-cli/internal/store"
 )
 
 func TestFilterAWSStations(t *testing.T) {
