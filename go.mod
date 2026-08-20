@@ -14,7 +14,7 @@ require modernc.org/sqlite v1.56.0
 
 require (
 	github.com/enetx/http v1.0.29
-	github.com/mark3labs/mcp-go v0.57.0
+	github.com/mark3labs/mcp-go v0.58.0
 )
 
 // Floor x/sys above the vulnerable v0.31.0. It is pulled only transitively
