@@ -7,7 +7,7 @@ require (
 	github.com/pelletier/go-toml/v2 v2.4.3
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/pflag v1.0.10
-	golang.org/x/net v0.57.0
+	golang.org/x/net v0.58.0
 )
 
 require modernc.org/sqlite v1.57.0
@@ -26,7 +26,7 @@ require golang.org/x/sys v0.47.0 // indirect
 // above their vulnerable versions (osv flags module presence; govulncheck
 // reachability = 0 for these REST CLIs). Emitted only when the surf transport
 // is present, so MVS keeps the floor; tidy drops it for CLIs without surf.
-require golang.org/x/crypto v0.54.0 // indirect
+require golang.org/x/crypto v0.55.0 // indirect
 
 require (
 	github.com/andybalholm/brotli v1.2.1 // indirect
@@ -49,7 +49,7 @@ require (
 	github.com/spf13/cast v1.7.1 // indirect
 	github.com/wzshiming/socks5 v0.7.0 // indirect
 	github.com/yosida95/uritemplate/v3 v3.0.2 // indirect
-	golang.org/x/text v0.40.0 // indirect
+	golang.org/x/text v0.41.0 // indirect
 	modernc.org/libc v1.74.4 // indirect
 	modernc.org/mathutil v1.7.1 // indirect
 	modernc.org/memory v1.11.0 // indirect
