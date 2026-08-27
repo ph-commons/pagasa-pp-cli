@@ -10,7 +10,7 @@ require (
 	golang.org/x/net v0.57.0
 )
 
-require modernc.org/sqlite v1.56.0
+require modernc.org/sqlite v1.57.0
 
 require (
 	github.com/enetx/http v1.0.29
