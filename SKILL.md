@@ -28,7 +28,7 @@ which pagasa-pp-cli || true
 pagasa-pp-cli --version
 ```
 
-Missing binary (Go ≥1.26.5; `GOTOOLCHAIN=auto` if older):
+Missing binary (Go ≥1.27; `GOTOOLCHAIN=auto` if older):
 
 ```bash
 go install github.com/ph-commons/pagasa-pp-cli/cmd/pagasa-pp-cli@latest
