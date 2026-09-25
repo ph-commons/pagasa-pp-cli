@@ -10,7 +10,7 @@ Created by [Nestor G Pestelos Jr](https://npestelos.com).
 
 ## Install
 
-Requires [Go 1.26.5 or newer](https://go.dev/dl/):
+Requires [Go 1.27 or newer](https://go.dev/dl/):
 
 ```bash
 go install github.com/ph-commons/pagasa-pp-cli/cmd/pagasa-pp-cli@latest

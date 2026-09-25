@@ -26,7 +26,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-<!-- No unreleased changes yet. -->
+### Changed
+
+- Dependency: bump `github.com/enetx/surf` 1.0.199 → 1.0.206. The Go toolchain floor moves to 1.27 (from 1.26.5); CI and release workflows follow.
 
 ---
 
