@@ -26,6 +26,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+<!-- No unreleased changes yet. -->
+
+---
+
+## [0.1.6] - 2026-09-25
+
 ### Changed
 
 - Dependency: bump `github.com/enetx/surf` 1.0.199 → 1.0.206. The Go toolchain floor moves to 1.27 (from 1.26.5); CI and release workflows follow.
@@ -119,7 +125,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-[Unreleased]: https://github.com/ngpestelos/pagasa-pp-cli/compare/v0.1.5...HEAD
+[Unreleased]: https://github.com/ngpestelos/pagasa-pp-cli/compare/v0.1.6...HEAD
+[0.1.6]: https://github.com/ngpestelos/pagasa-pp-cli/compare/v0.1.5...v0.1.6
 [0.1.5]: https://github.com/ngpestelos/pagasa-pp-cli/compare/v0.1.4...v0.1.5
 [0.1.4]: https://github.com/ngpestelos/pagasa-pp-cli/compare/v0.1.3...v0.1.4
 [0.1.3]: https://github.com/ngpestelos/pagasa-pp-cli/compare/v0.1.2...v0.1.3
