@@ -3,7 +3,7 @@ module github.com/ph-commons/pagasa-pp-cli
 go 1.27
 
 require (
-	github.com/enetx/http v1.0.29
+	github.com/enetx/http v1.0.31
 	github.com/enetx/surf v1.0.207
 	github.com/mark3labs/mcp-go v1.5.0
 	github.com/pelletier/go-toml/v2 v2.4.3
