@@ -7,8 +7,8 @@ github.com/dustin/go-humanize v1.1.0 h1:dbKTrvD0klcbBV/h4AWJdMuZogJACoMlvWIWZ5b2
 github.com/dustin/go-humanize v1.1.0/go.mod h1:hc1CvRkJMsgxqjmjMQF3QNRAZBwY8AXBAzKYoSX9sFI=
 github.com/enetx/g v1.1.1 h1:Lu3l3/Vy51cd52o1V37iCDmE5jAympCWQYHcb7AKlpI=
 github.com/enetx/g v1.1.1/go.mod h1:nVdbiRFOVdOb/TDVPB3gMaMd8161Wv6dQZYdqvg9IHE=
-github.com/enetx/http v1.0.31 h1:AJE/6mheDFcSJ/OdmE7UdzqdsBZvfH/k5LVNPxWK/UM=
-github.com/enetx/http v1.0.31/go.mod h1:5gUSfUXVty5/7tAZxFKSX4anUMNS2CEf3ekjJFMAHQE=
+github.com/enetx/http v1.0.49 h1:ose2jZEX5hZLcVpdWDX9dCEn3xNMGraddfHQTPZmKI4=
+github.com/enetx/http v1.0.49/go.mod h1:5gUSfUXVty5/7tAZxFKSX4anUMNS2CEf3ekjJFMAHQE=
 github.com/enetx/quic-go v1.0.0 h1:6FiG9M+FjVG8tnBVbCv/wh4sdq9mL6V1QvqkVy8Gxew=
 github.com/enetx/quic-go v1.0.0/go.mod h1:BrM2zJl/tIq5bB8d8GhIn01DTnhj7i+eT9Ng/kJ1fuA=
 github.com/enetx/surf v1.0.209 h1:f4mb3i2xcFbfbcaAKyVL/qCEYYm1WflV/g6IPifdl7A=
