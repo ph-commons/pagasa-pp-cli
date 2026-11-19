@@ -3,8 +3,8 @@ module github.com/ph-commons/pagasa-pp-cli
 go 1.27
 
 require (
-	github.com/enetx/http v1.0.31
-	github.com/enetx/surf v1.0.209
+	github.com/enetx/http v1.0.49
+	github.com/enetx/surf v1.0.256
 	github.com/mark3labs/mcp-go v1.5.0
 	github.com/pelletier/go-toml/v2 v2.4.3
 	github.com/spf13/cobra v1.10.2
@@ -17,7 +17,8 @@ require (
 	github.com/andybalholm/brotli v1.2.8 // indirect
 	github.com/dustin/go-humanize v1.1.0 // indirect
 	github.com/enetx/g v1.1.1 // indirect
-	github.com/enetx/quic-go v1.0.0 // indirect
+	github.com/enetx/quic-go v1.0.40 // indirect
+	github.com/enetx/utls v1.0.10 // indirect
 	github.com/google/jsonschema-go v0.4.2 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
@@ -26,7 +27,6 @@ require (
 	github.com/molecule-man/go-brrr v1.3.1 // indirect
 	github.com/ncruces/go-strftime v1.1.0 // indirect
 	github.com/quic-go/qpack v0.6.0 // indirect
-	github.com/refraction-networking/utls v1.8.3-0.20261108164504-a13c59ffe98b // indirect
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec // indirect
 	github.com/santhosh-tekuri/jsonschema/v6 v6.0.2 // indirect
 	github.com/spf13/cast v1.7.1 // indirect
@@ -36,12 +36,12 @@ require (
 	// above their vulnerable versions (osv flags module presence; govulncheck
 	// reachability = 0 for these REST CLIs). Emitted only when the surf transport
 	// is present, so MVS keeps the floor; tidy drops it for CLIs without surf.
-	golang.org/x/crypto v0.58.0 // indirect
+	golang.org/x/crypto v0.59.0 // indirect
 	// Floor x/sys above the vulnerable v0.31.0. It is pulled only transitively
 	// (modernc.org/sqlite, golang.org/x/net, ...), so MVS needs this explicit
 	// floor; tidy drops it for CLIs that pull no x/sys at all.
-	golang.org/x/sys v0.49.0 // indirect
-	golang.org/x/text v0.43.0 // indirect
+	golang.org/x/sys v0.50.0 // indirect
+	golang.org/x/text v0.44.0 // indirect
 	modernc.org/libc v1.80.1 // indirect
 	modernc.org/mathutil v1.7.1 // indirect
 	modernc.org/memory v1.12.1 // indirect
